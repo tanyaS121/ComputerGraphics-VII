@@ -1,3 +1,5 @@
+//.....  C program to draw a line using OpenGL  .....
+
 #include <windows.h>
 #include <GL/glut.h>
 
@@ -21,7 +23,7 @@ int main(int a, char **b){
     glutInitWindowSize(1400,1000);
     glutInitWindowPosition(0,0);
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
-    glutCreateWindow("Line using OpenGL - Tanya - 18103043");
+    glutCreateWindow("Line");
     init();
     glutDisplayFunc(display);
     glutMainLoop();
