@@ -80,7 +80,7 @@ int main(int argc,char **argv)
  printf("Enter ty : ");
  scanf("%d",&ty);
 
- glutCreateWindow("Line translation - 18103043");
+ glutCreateWindow("Line translation");
  init();
  glutDisplayFunc(draw);
  glutMainLoop();
