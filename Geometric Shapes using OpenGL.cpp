@@ -71,7 +71,7 @@ void drawScene(void) {
 int main(int argc, char** argv) {
 	glutInit(&argc, argv);
 	glutInitWindowSize(400, 450);
-	glutCreateWindow("Geometric Shapes - Tanya18103043");
+	glutCreateWindow("Geometric Shapes");
 	glutDisplayFunc(drawScene);
 	glutMainLoop();
 	return 0;
