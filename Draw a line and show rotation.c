@@ -79,7 +79,7 @@ int main(int argc,char **argv)
  scanf("%d",&c);
  printf("Enter y2: ");
  scanf("%d",&d);
- glutCreateWindow("Line Rotation - 18103043");
+ glutCreateWindow("Line Rotation");
  init();
  glutDisplayFunc(draw);
  glutMainLoop();
