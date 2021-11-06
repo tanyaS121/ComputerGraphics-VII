@@ -91,7 +91,7 @@ glutInit(&argc,argv);
 glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
 glutInitWindowPosition(0,0);
 glutInitWindowSize(WIDTH,HEIGHT);
-glutCreateWindow("Boucing Ball - 18103043");
+glutCreateWindow("");
 init();
 glutReshapeFunc(reshape);
 glutDisplayFunc(display);
