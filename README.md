@@ -5,3 +5,4 @@ C/C++ codes for:
 - Drawing geometric shapes using opengl
 - Drawing a line using OpenGL and show rotation
 - Drawing a line using OpenGL and show translation
+- Draw a ball and show its bouncing motion using OpenGL
