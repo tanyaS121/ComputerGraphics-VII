@@ -15,7 +15,7 @@ void idle(void){
 int main(int argc, char **argv){
     glutInit(&argc, argv);
     glutInitWindowSize(400,400);
-    glutCreateWindow("Tanya18103043-Cube");
+    glutCreateWindow("Cube");
     xRotate = yRotate = zRotate = 30.0;
     xRotate=43;
     yRotate=50;
