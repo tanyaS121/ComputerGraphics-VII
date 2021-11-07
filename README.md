@@ -7,3 +7,4 @@ C/C++ codes for:
 - Drawing a line using OpenGL and show translation
 - Draw a ball and show its bouncing motion using OpenGL
 - Draw a house and show sunrise and sunset between the mountains using OpenGL
+- Draw solar system consisting only of sun, moon and earth and show rotation and revolution.
