@@ -196,7 +196,7 @@ int main(int argc, char** argv)
     glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB|GLUT_DEPTH);
     glutInitWindowSize(800,400);
     glutInitWindowPosition(0,0);
-    glutCreateWindow("Cube Transformations - Tanya18103043");
+    glutCreateWindow("Cube Transformations");
     init();
     cout<<"Enter your choice number:\n1.Translation\n2.Scaling\n3.Rotation\n=>";
     cin>>choice;
