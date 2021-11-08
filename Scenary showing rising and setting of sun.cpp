@@ -255,7 +255,7 @@ int main(int argc, char** argv){
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
     glutInitWindowSize(700, 500);
-    glutCreateWindow("Scenary - 18103043");
+    glutCreateWindow("Scenary");
     myInit();
     glutDisplayFunc(Display);
     glutReshapeFunc(handleResize);
